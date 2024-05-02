@@ -1,5 +1,5 @@
-#Disclaimer
-I don't support gambling this project is for fun purpose which was made by me.
+Disclaimer : 
+ I don't support gambling this project is for fun purpose which was made by me.
 
 ## Slot_Machine
 This is an (Command Line Interface)CLI App which will be used as a Slot Machine.
